@@ -1,5 +1,5 @@
 # Use base maven-jdk  standard image
-FROM maven:3.5.2-jdk-3.5.2-jdk-8 
+FROM maven:3.5.2-jdk-8 
 
 # Install google chrome latest stable release
 
